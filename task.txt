@@ -1,0 +1,12 @@
+array methods
+
+length
+find
+sort
+findindex
+
+
+
+
+
+
