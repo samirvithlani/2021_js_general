@@ -1,9 +1,85 @@
+student [
+    {
+        name:"samir"
+        age:20
+        sal:25000
+    },
+    {
+        name:"samir"
+        age:20
+        sal:25000
+    },
+    {
+        name:"samir"
+        age:20
+        sal:25000
+    },
+    {
+        name:"samir"
+        age:20
+        sal:25000
+    }
+
+]
+
 array methods
 
 length
 find
 sort
 findindex
+
+
+HTML  -->
+
+student.js
+
+array employee []
+
+addemployee
+
+
+}
+remove emp{
+
+
+}
+view empl(){
+
+}
+
+getemp byname(){
+
+
+}
+
+sortByname
+sort by salary
+sort by age
+
+
+
+
+<form>
+
+    EmployeeName
+    employee age
+    employee salary
+
+    submit .js
+</>
+
+//table
+                                            sortbyname  sortbyage sortby
+name         age               salary
+kl           12                 12000
+raj          23                 25000
+parth        25                 45000
+
+
+
+
+
 
 
 
