@@ -81,7 +81,7 @@ parth        25                 45000
 
 
 
-
+in js array is an built-in gloable object that allows you to store  multipule data type at once.
 
 
 
